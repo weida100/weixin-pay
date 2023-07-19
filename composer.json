@@ -1,0 +1,15 @@
+{
+    "name": "weida/weixin-pay",
+    "autoload": {
+        "psr-4": {
+            "Weida\\WeixinPay\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sgenmi",
+            "email": "sgenmi@gmail.com"
+        }
+    ],
+    "require": {}
+}
